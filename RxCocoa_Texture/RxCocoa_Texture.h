@@ -7,5 +7,3 @@ FOUNDATION_EXPORT double RxCocoa_TextureVersionNumber;
 FOUNDATION_EXPORT const unsigned char RxCocoa_TextureVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <RxCocoa_Texture/PublicHeader.h>
-
-
