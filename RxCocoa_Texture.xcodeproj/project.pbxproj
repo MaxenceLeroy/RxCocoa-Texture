@@ -16,7 +16,6 @@
 		F791296324C09511007F8BCF /* ASBinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295724C09510007F8BCF /* ASBinder.swift */; };
 		F791296424C09511007F8BCF /* ASControlNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295824C09510007F8BCF /* ASControlNode+Rx.swift */; };
 		F791296524C09511007F8BCF /* ASImageNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295924C09510007F8BCF /* ASImageNode+Rx.swift */; };
-		F791296624C09511007F8BCF /* RxASEditableTextNodeDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295A24C09510007F8BCF /* RxASEditableTextNodeDelegateProxy.swift */; };
 		F791296724C09511007F8BCF /* ASDisplayNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295B24C09510007F8BCF /* ASDisplayNode+Rx.swift */; };
 		F791296824C09511007F8BCF /* ASButtonNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295C24C09510007F8BCF /* ASButtonNode+Rx.swift */; };
 		F791296924C09511007F8BCF /* ASNetworkImageNode+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = F791295D24C09510007F8BCF /* ASNetworkImageNode+Rx.swift */; };
@@ -52,7 +51,6 @@
 		F791295724C09510007F8BCF /* ASBinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ASBinder.swift; path = "RxCocoa-Texture/Classes/ASBinder.swift"; sourceTree = SOURCE_ROOT; };
 		F791295824C09510007F8BCF /* ASControlNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ASControlNode+Rx.swift"; path = "RxCocoa-Texture/Classes/ASControlNode+Rx.swift"; sourceTree = SOURCE_ROOT; };
 		F791295924C09510007F8BCF /* ASImageNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ASImageNode+Rx.swift"; path = "RxCocoa-Texture/Classes/ASImageNode+Rx.swift"; sourceTree = SOURCE_ROOT; };
-		F791295A24C09510007F8BCF /* RxASEditableTextNodeDelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RxASEditableTextNodeDelegateProxy.swift; path = "RxCocoa-Texture/Classes/RxASEditableTextNodeDelegateProxy.swift"; sourceTree = SOURCE_ROOT; };
 		F791295B24C09510007F8BCF /* ASDisplayNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ASDisplayNode+Rx.swift"; path = "RxCocoa-Texture/Classes/ASDisplayNode+Rx.swift"; sourceTree = SOURCE_ROOT; };
 		F791295C24C09510007F8BCF /* ASButtonNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ASButtonNode+Rx.swift"; path = "RxCocoa-Texture/Classes/ASButtonNode+Rx.swift"; sourceTree = SOURCE_ROOT; };
 		F791295D24C09510007F8BCF /* ASNetworkImageNode+Rx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "ASNetworkImageNode+Rx.swift"; path = "RxCocoa-Texture/Classes/ASNetworkImageNode+Rx.swift"; sourceTree = SOURCE_ROOT; };
@@ -134,7 +132,6 @@
 				F791295E24C09510007F8BCF /* ASTextNode+Rx.swift */,
 				F791295524C09510007F8BCF /* ASTextNode2+Rx.swift */,
 				F791295624C09510007F8BCF /* Driver+ASSubscription.swift */,
-				F791295A24C09510007F8BCF /* RxASEditableTextNodeDelegateProxy.swift */,
 			);
 			name = Sources;
 			sourceTree = "<group>";
@@ -265,7 +262,6 @@
 				F791296324C09511007F8BCF /* ASBinder.swift in Sources */,
 				F791296924C09511007F8BCF /* ASNetworkImageNode+Rx.swift in Sources */,
 				F791296024C09511007F8BCF /* ASControlTarget.swift in Sources */,
-				F791296624C09511007F8BCF /* RxASEditableTextNodeDelegateProxy.swift in Sources */,
 				F791296824C09511007F8BCF /* ASButtonNode+Rx.swift in Sources */,
 				F791296124C09511007F8BCF /* ASTextNode2+Rx.swift in Sources */,
 				F791296A24C09511007F8BCF /* ASTextNode+Rx.swift in Sources */,

@@ -11,7 +11,7 @@ import RxCocoa
 
 extension Reactive where Base: ASEditableTextNode {
     
-    public var delegate: DelegateProxy<ASEditableTextNode, ASEditableTextNodeDelegate> {
+    /*public var delegate: DelegateProxy<ASEditableTextNode, ASEditableTextNodeDelegate> {
         return RxASEditableTextNodeDelegateProxy.proxy(for: base)
     }
     
@@ -35,7 +35,7 @@ extension Reactive where Base: ASEditableTextNode {
         }
         
         return ControlProperty(values: source, valueSink: bindingObserver)
-    }
+    }*/
     
     public func text(_ attributes: [NSAttributedString.Key: Any]?) -> ASBinder<String?> {
         
